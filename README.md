@@ -15,8 +15,9 @@ This project explores patterns of employee attrition using HR data, identifying 
 
 ## Dashboard
 - Overview:
-  <img width="967" height="539" alt="image" src="https://github.com/user-attachments/assets/d748a937-07eb-4dd0-8dd5-d82fb0a605b5" />
+  <img width="964" height="542" alt="image" src="https://github.com/user-attachments/assets/b6f5fa5b-5918-4934-9af5-5660a96b8c95" />
 - Attrition Drivers:
-  <img width="942" height="527" alt="image" src="https://github.com/user-attachments/assets/b6b24bbf-717c-4b27-94ff-1f860d18e42d" />
+  <img width="945" height="531" alt="image" src="https://github.com/user-attachments/assets/225d4c35-5f1e-4b63-9d18-72bcf12dc403" />
+
 
 
